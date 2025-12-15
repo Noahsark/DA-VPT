@@ -73,5 +73,15 @@ Thumbs.db
 .env
 .env.local
 
+# model
+*.pth
+*.pth.tar
+
+# package
+*.egg-info/
+*.tar.gz
+*.tar
+
 # Link
 vpt_data
+save
