@@ -150,7 +150,7 @@ python -m Dataset.FGVC_json
 To train the model with a specific configuration:
 
 ```bash
-python train.py --config configs/vtab/mae_caltech101.yaml
+python train.py --config configs/fgvc/mae_cub200.yaml
 ```
 
 ### Evaluation
@@ -186,7 +186,7 @@ This project is released under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-We thank the authors of [VPT](https://github.com/KMnP/vpt) for their foundational work and code base. This research was supported by [funding sources to be added].
+We thank the authors of [VPT](https://github.com/KMnP/vpt) for their foundational work and code base.
 
 ## Contact
 
